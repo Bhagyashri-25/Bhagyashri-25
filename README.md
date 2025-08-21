@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science Student | Mumbai University<br>💡 Passionate about Data Analytics, AI & Machine Learning<br>🚀 What I Do?<br>🔹 Build web applications using Django & Python<br>🔹 Work with ETL pipelines, Power BI, and SQL for data analysis<br>💡 Fun Fact <br>I love experimenting with new tech tools, automating tasks, and making data-driven decisions!<br>Would love to connect & collaborate on exciting projects! 🚀💻</p>
+<p align="left">🎓 Computer Science graduate | Mumbai University<br>💡 Passionate about Data Analytics, AI & Machine Learning<br>🚀 What I Do?<br>🔹 Build web applications using Django & Python<br>🔹 Work with ETL pipelines, Power BI, and SQL for data analysis<br>💡 Fun Fact <br>I love experimenting with new tech tools, automating tasks, and making data-driven decisions!<br>Would love to connect & collaborate on exciting projects! 🚀💻</p>
 
 ###
 
